@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/dynamic-ui-testsite/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/dynamic-ui-testsite/static/js/main.c4ebe6dc.chunk.js",
-    "main.js.map": "/dynamic-ui-testsite/static/js/main.c4ebe6dc.chunk.js.map",
-    "runtime-main.js": "/dynamic-ui-testsite/static/js/runtime-main.ad47db51.js",
-    "runtime-main.js.map": "/dynamic-ui-testsite/static/js/runtime-main.ad47db51.js.map",
+    "main.js": "/dynamic-ui-testsite/static/js/main.f132009b.chunk.js",
+    "main.js.map": "/dynamic-ui-testsite/static/js/main.f132009b.chunk.js.map",
+    "runtime-main.js": "/dynamic-ui-testsite/static/js/runtime-main.57a86f32.js",
+    "runtime-main.js.map": "/dynamic-ui-testsite/static/js/runtime-main.57a86f32.js.map",
     "static/css/2.d787eb71.chunk.css": "/dynamic-ui-testsite/static/css/2.d787eb71.chunk.css",
-    "static/js/2.cc69ad12.chunk.js": "/dynamic-ui-testsite/static/js/2.cc69ad12.chunk.js",
-    "static/js/2.cc69ad12.chunk.js.map": "/dynamic-ui-testsite/static/js/2.cc69ad12.chunk.js.map",
-    "static/js/3.f94e91ef.chunk.js": "/dynamic-ui-testsite/static/js/3.f94e91ef.chunk.js",
-    "static/js/3.f94e91ef.chunk.js.map": "/dynamic-ui-testsite/static/js/3.f94e91ef.chunk.js.map",
+    "static/js/2.d89c2d26.chunk.js": "/dynamic-ui-testsite/static/js/2.d89c2d26.chunk.js",
+    "static/js/2.d89c2d26.chunk.js.map": "/dynamic-ui-testsite/static/js/2.d89c2d26.chunk.js.map",
+    "static/js/3.fd898518.chunk.js": "/dynamic-ui-testsite/static/js/3.fd898518.chunk.js",
+    "static/js/3.fd898518.chunk.js.map": "/dynamic-ui-testsite/static/js/3.fd898518.chunk.js.map",
     "index.html": "/dynamic-ui-testsite/index.html",
     "static/css/2.d787eb71.chunk.css.map": "/dynamic-ui-testsite/static/css/2.d787eb71.chunk.css.map",
     "static/css/main.6dea0f05.chunk.css.map": "/dynamic-ui-testsite/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.cc69ad12.chunk.js.LICENSE.txt": "/dynamic-ui-testsite/static/js/2.cc69ad12.chunk.js.LICENSE.txt",
+    "static/js/2.d89c2d26.chunk.js.LICENSE.txt": "/dynamic-ui-testsite/static/js/2.d89c2d26.chunk.js.LICENSE.txt",
     "static/media/mitekSDK.css": "/dynamic-ui-testsite/static/media/ghost_selfie_portrait_green.016eef4c.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad47db51.js",
+    "static/js/runtime-main.57a86f32.js",
     "static/css/2.d787eb71.chunk.css",
-    "static/js/2.cc69ad12.chunk.js",
+    "static/js/2.d89c2d26.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.c4ebe6dc.chunk.js"
+    "static/js/main.f132009b.chunk.js"
   ]
 }
