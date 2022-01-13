@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://riccoa.github.io/dynamic-ui-testsite",
   "dependencies": {
-    "@curo/dynamic-ui-components": "^0.2.87",
+    "@curo/dynamic-ui-components": "0.2.88",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
