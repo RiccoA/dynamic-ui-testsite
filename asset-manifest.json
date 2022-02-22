@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/dynamic-ui-testsite/static/css/main.90df9410.chunk.css",
-    "main.js": "/dynamic-ui-testsite/static/js/main.43ffd5af.chunk.js",
-    "main.js.map": "/dynamic-ui-testsite/static/js/main.43ffd5af.chunk.js.map",
-    "runtime-main.js": "/dynamic-ui-testsite/static/js/runtime-main.56d66a32.js",
-    "runtime-main.js.map": "/dynamic-ui-testsite/static/js/runtime-main.56d66a32.js.map",
-    "static/js/2.65e48e6a.chunk.js": "/dynamic-ui-testsite/static/js/2.65e48e6a.chunk.js",
-    "static/js/2.65e48e6a.chunk.js.map": "/dynamic-ui-testsite/static/js/2.65e48e6a.chunk.js.map",
-    "static/js/3.0cfb6c52.chunk.js": "/dynamic-ui-testsite/static/js/3.0cfb6c52.chunk.js",
-    "static/js/3.0cfb6c52.chunk.js.map": "/dynamic-ui-testsite/static/js/3.0cfb6c52.chunk.js.map",
-    "index.html": "/dynamic-ui-testsite/index.html",
-    "static/css/main.90df9410.chunk.css.map": "/dynamic-ui-testsite/static/css/main.90df9410.chunk.css.map",
-    "static/js/2.65e48e6a.chunk.js.LICENSE.txt": "/dynamic-ui-testsite/static/js/2.65e48e6a.chunk.js.LICENSE.txt",
-    "static/media/mitekSDK.css": "/dynamic-ui-testsite/static/media/ghost_selfie_portrait_green.016eef4c.gif"
+    "main.css": "./static/css/main.a1ef09b0.chunk.css",
+    "main.js": "./static/js/main.c4d0563b.chunk.js",
+    "main.js.map": "./static/js/main.c4d0563b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.df173415.js",
+    "runtime-main.js.map": "./static/js/runtime-main.df173415.js.map",
+    "static/js/2.4e40399c.chunk.js": "./static/js/2.4e40399c.chunk.js",
+    "static/js/2.4e40399c.chunk.js.map": "./static/js/2.4e40399c.chunk.js.map",
+    "static/js/3.8e469872.chunk.js": "./static/js/3.8e469872.chunk.js",
+    "static/js/3.8e469872.chunk.js.map": "./static/js/3.8e469872.chunk.js.map",
+    "index.html": "./index.html",
+    "service-worker.js": "./service-worker.js",
+    "service-worker.js.map": "./service-worker.js.map",
+    "static/css/main.a1ef09b0.chunk.css.map": "./static/css/main.a1ef09b0.chunk.css.map",
+    "static/js/2.4e40399c.chunk.js.LICENSE.txt": "./static/js/2.4e40399c.chunk.js.LICENSE.txt",
+    "static/media/mitekSDK.css": "./static/media/ghost_selfie_portrait_green.016eef4c.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.56d66a32.js",
-    "static/js/2.65e48e6a.chunk.js",
-    "static/css/main.90df9410.chunk.css",
-    "static/js/main.43ffd5af.chunk.js"
+    "static/js/runtime-main.df173415.js",
+    "static/js/2.4e40399c.chunk.js",
+    "static/css/main.a1ef09b0.chunk.css",
+    "static/js/main.c4d0563b.chunk.js"
   ]
 }
