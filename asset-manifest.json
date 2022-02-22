@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.a1ef09b0.chunk.css",
-    "main.js": "./static/js/main.c4d0563b.chunk.js",
-    "main.js.map": "./static/js/main.c4d0563b.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.df173415.js",
-    "runtime-main.js.map": "./static/js/runtime-main.df173415.js.map",
-    "static/js/2.4e40399c.chunk.js": "./static/js/2.4e40399c.chunk.js",
-    "static/js/2.4e40399c.chunk.js.map": "./static/js/2.4e40399c.chunk.js.map",
-    "static/js/3.8e469872.chunk.js": "./static/js/3.8e469872.chunk.js",
-    "static/js/3.8e469872.chunk.js.map": "./static/js/3.8e469872.chunk.js.map",
-    "index.html": "./index.html",
-    "service-worker.js": "./service-worker.js",
-    "service-worker.js.map": "./service-worker.js.map",
-    "static/css/main.a1ef09b0.chunk.css.map": "./static/css/main.a1ef09b0.chunk.css.map",
-    "static/js/2.4e40399c.chunk.js.LICENSE.txt": "./static/js/2.4e40399c.chunk.js.LICENSE.txt",
-    "static/media/mitekSDK.css": "./static/media/ghost_selfie_portrait_green.016eef4c.gif"
+    "main.css": "https://riccoa.github.io/dynamic-ui-testsite/static/css/main.577bbb87.chunk.css",
+    "main.js": "https://riccoa.github.io/dynamic-ui-testsite/static/js/main.3d46d4fc.chunk.js",
+    "main.js.map": "https://riccoa.github.io/dynamic-ui-testsite/static/js/main.3d46d4fc.chunk.js.map",
+    "runtime-main.js": "https://riccoa.github.io/dynamic-ui-testsite/static/js/runtime-main.bb8277fe.js",
+    "runtime-main.js.map": "https://riccoa.github.io/dynamic-ui-testsite/static/js/runtime-main.bb8277fe.js.map",
+    "static/js/2.4e40399c.chunk.js": "https://riccoa.github.io/dynamic-ui-testsite/static/js/2.4e40399c.chunk.js",
+    "static/js/2.4e40399c.chunk.js.map": "https://riccoa.github.io/dynamic-ui-testsite/static/js/2.4e40399c.chunk.js.map",
+    "static/js/3.8e469872.chunk.js": "https://riccoa.github.io/dynamic-ui-testsite/static/js/3.8e469872.chunk.js",
+    "static/js/3.8e469872.chunk.js.map": "https://riccoa.github.io/dynamic-ui-testsite/static/js/3.8e469872.chunk.js.map",
+    "index.html": "https://riccoa.github.io/dynamic-ui-testsite/index.html",
+    "service-worker.js": "https://riccoa.github.io/dynamic-ui-testsite/service-worker.js",
+    "service-worker.js.map": "https://riccoa.github.io/dynamic-ui-testsite/service-worker.js.map",
+    "static/css/main.577bbb87.chunk.css.map": "https://riccoa.github.io/dynamic-ui-testsite/static/css/main.577bbb87.chunk.css.map",
+    "static/js/2.4e40399c.chunk.js.LICENSE.txt": "https://riccoa.github.io/dynamic-ui-testsite/static/js/2.4e40399c.chunk.js.LICENSE.txt",
+    "static/media/mitekSDK.css": "https://riccoa.github.io/dynamic-ui-testsite/static/media/ghost_selfie_portrait_green.016eef4c.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.df173415.js",
+    "static/js/runtime-main.bb8277fe.js",
     "static/js/2.4e40399c.chunk.js",
-    "static/css/main.a1ef09b0.chunk.css",
-    "static/js/main.c4d0563b.chunk.js"
+    "static/css/main.577bbb87.chunk.css",
+    "static/js/main.3d46d4fc.chunk.js"
   ]
 }
