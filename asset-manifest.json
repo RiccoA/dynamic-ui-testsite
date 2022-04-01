@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": " /static/css/main.348e357b.chunk.css",
-    "main.js": " /static/js/main.ac2e99e4.chunk.js",
-    "main.js.map": " /static/js/main.ac2e99e4.chunk.js.map",
-    "runtime-main.js": " /static/js/runtime-main.08bfc64a.js",
-    "runtime-main.js.map": " /static/js/runtime-main.08bfc64a.js.map",
-    "static/js/2.f3137f25.chunk.js": " /static/js/2.f3137f25.chunk.js",
-    "static/js/2.f3137f25.chunk.js.map": " /static/js/2.f3137f25.chunk.js.map",
-    "static/js/3.8e469872.chunk.js": " /static/js/3.8e469872.chunk.js",
-    "static/js/3.8e469872.chunk.js.map": " /static/js/3.8e469872.chunk.js.map",
-    "index.html": " /index.html",
-    "service-worker.js": " /service-worker.js",
-    "service-worker.js.map": " /service-worker.js.map",
-    "static/css/main.348e357b.chunk.css.map": " /static/css/main.348e357b.chunk.css.map",
-    "static/js/2.f3137f25.chunk.js.LICENSE.txt": " /static/js/2.f3137f25.chunk.js.LICENSE.txt",
-    "static/media/mitekSDK.css": " /static/media/ghost_selfie_portrait_green.016eef4c.gif"
+    "main.css": "/dynamic-ui-testsite/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/dynamic-ui-testsite/static/js/main.a413c9c9.chunk.js",
+    "main.js.map": "/dynamic-ui-testsite/static/js/main.a413c9c9.chunk.js.map",
+    "runtime-main.js": "/dynamic-ui-testsite/static/js/runtime-main.cfbf926c.js",
+    "runtime-main.js.map": "/dynamic-ui-testsite/static/js/runtime-main.cfbf926c.js.map",
+    "static/css/2.d787eb71.chunk.css": "/dynamic-ui-testsite/static/css/2.d787eb71.chunk.css",
+    "static/js/2.b9769eae.chunk.js": "/dynamic-ui-testsite/static/js/2.b9769eae.chunk.js",
+    "static/js/2.b9769eae.chunk.js.map": "/dynamic-ui-testsite/static/js/2.b9769eae.chunk.js.map",
+    "static/js/3.62b8bcdf.chunk.js": "/dynamic-ui-testsite/static/js/3.62b8bcdf.chunk.js",
+    "static/js/3.62b8bcdf.chunk.js.map": "/dynamic-ui-testsite/static/js/3.62b8bcdf.chunk.js.map",
+    "index.html": "/dynamic-ui-testsite/index.html",
+    "service-worker.js": "/dynamic-ui-testsite/service-worker.js",
+    "service-worker.js.map": "/dynamic-ui-testsite/service-worker.js.map",
+    "static/css/2.d787eb71.chunk.css.map": "/dynamic-ui-testsite/static/css/2.d787eb71.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/dynamic-ui-testsite/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b9769eae.chunk.js.LICENSE.txt": "/dynamic-ui-testsite/static/js/2.b9769eae.chunk.js.LICENSE.txt",
+    "static/media/mitekSDK.css": "/dynamic-ui-testsite/static/media/ghost_selfie_portrait_green.016eef4c.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.08bfc64a.js",
-    "static/js/2.f3137f25.chunk.js",
-    "static/css/main.348e357b.chunk.css",
-    "static/js/main.ac2e99e4.chunk.js"
+    "static/js/runtime-main.cfbf926c.js",
+    "static/css/2.d787eb71.chunk.css",
+    "static/js/2.b9769eae.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a413c9c9.chunk.js"
   ]
 }
